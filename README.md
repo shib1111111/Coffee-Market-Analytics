@@ -91,6 +91,6 @@ We welcome contributions to enhance this project. Feel free to open issues or su
 
 This project is licensed under the [MIT License](LICENSE).
 
-Thank you for using MovieMaven! Feel free to reach out with any questions or feedback.
+Thank you for your review! Feel free to reach out with any questions or feedback.
 
 <em style="color: #ff66b2; font-weight: bold;">✨ --- Designed & made with Love by Shib Kumar Saraf ✨</em>
