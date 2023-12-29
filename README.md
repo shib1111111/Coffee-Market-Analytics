@@ -82,6 +82,7 @@ The Excel dashboard provides detailed insights into various aspects of the coffe
 1. **Download the Excel File**: Obtain the Excel file [`dashboard.xlsx`](dashboard.xlsx).
 2. **Open in Microsoft Excel**: Launch the file using Microsoft Excel.
 3. **Navigate to Dashboard**: Explore the comprehensive analytics on the "Dashboard" sheet.
+For the live experience, visit  [website](link).
 
 ## Contributing
 
